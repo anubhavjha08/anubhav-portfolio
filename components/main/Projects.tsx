@@ -23,8 +23,8 @@ const Projects = () => {
         />
         <ProjectCard
           src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="My Portfolio Website"
+          description="A sleek and modern portfolio website showcasing my projects, skills, and experiences in web development and software engineering."
         />
       </div>
     </div>
